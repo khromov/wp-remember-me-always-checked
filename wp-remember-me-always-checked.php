@@ -3,7 +3,7 @@
 Plugin Name: Remember Me Always Checked
 Version: 1.0
 Plugin URI:
-Description: Automatically checks the 'Remember Me' checkbox on the login page (useful if you are keen to keep your user logged in)
+Description: Set the 'Remember Me' box on the login page as checked by default and help keep users logged in. GitHub Updater-compatible.
 Author: khromov
 Author URI: http://snippets.khromov.se
 License: GPLv2

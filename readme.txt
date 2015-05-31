@@ -6,10 +6,10 @@ Tested up to: 4.2
 Stable tag: 1.0
 License: GPL2
 
-Keep the "Remember me" checkbox checked on the login page.
+Set the 'Remember Me' box on the login page as checked by default and help keep users logged in. GitHub Updater-compatible.
 
 == Description ==
-Keep the "Remember me" checkbox checked on the login page.
+Set the 'Remember Me' box on the login page as checked by default and help keep users logged in. GitHub Updater-compatible.
 
 Based on Remember Me Checked by WPMUDev and this tutorial:
 http://www.paulund.co.uk/set-remember-me-to-be-always-checked
