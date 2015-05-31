@@ -11,7 +11,7 @@ Keep the "Remember me" checkbox checked on the login page.
 == Description ==
 Keep the "Remember me" checkbox checked on the login page.
 
-Based on Remember Me Checked by WPMUDev and this tutorial:  s
+Based on Remember Me Checked by WPMUDev and this tutorial:
 http://www.paulund.co.uk/set-remember-me-to-be-always-checked
 
 == Changelog ==
