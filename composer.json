@@ -1,0 +1,7 @@
+{
+	"name"       : "khromov/wp-remember-me-always-checked",
+	"type"       : "wordpress-plugin",
+	"require"    : {
+		"composer/installers": "~1.0"
+	}
+}
